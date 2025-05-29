@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\bin\Debug\net8.0\FIrstClass_Practice.exe
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\bin\Debug\net8.0\FIrstClass_Practice.deps.json
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\bin\Debug\net8.0\FIrstClass_Practice.runtimeconfig.json
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\bin\Debug\net8.0\FIrstClass_Practice.dll
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\bin\Debug\net8.0\FIrstClass_Practice.pdb
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.AssemblyInfo.cs
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.sourcelink.json
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.dll
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\refint\FIrstClass_Practice.dll
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.pdb
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\FIrstClass_Practice.genruntimeconfig.cache
+C:\Users\musta\source\repos\FIrstClass_Practice\FIrstClass_Practice\obj\Debug\net8.0\ref\FIrstClass_Practice.dll
